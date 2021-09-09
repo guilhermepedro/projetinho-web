@@ -1,2 +1,2 @@
 # projetinho-web
-Projeto de Desenvolvimento Web.
+Projeto de cadastro de clientes a nível básico.
